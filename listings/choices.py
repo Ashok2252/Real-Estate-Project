@@ -25,7 +25,7 @@ price_choices = {
 }
 
 state_choices = {
-        'AK': 'Alaska',
+        'alaska': 'Alaska',
         'AL': 'Alabama',
         'AR': 'Arkansas',
         'AS': 'American Samoa',
@@ -35,9 +35,9 @@ state_choices = {
         'CT': 'Connecticut',
         'DC': 'District of Columbia',
         'DE': 'Delaware',
-        'FL': 'Florida',
-        'GA': 'Georgia',
-        'GJ': 'Gujarat',
+        'florida': 'Florida',
+        'georgia': 'Georgia',
+        'gujarat': 'Gujarat',
         'GU': 'Guam',
         'HI': 'Hawaii',
         'IA': 'Iowa',
