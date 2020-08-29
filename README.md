@@ -18,7 +18,7 @@ Clone the repo and then run the following commands _n
 
 Create a virtual environment _n
 python -m venv ./venv _n
-Activate virtual environment _n
+Activate virtual environment _n </br>
 venv/Script/activate _n
 Install all the required packages _n
 pip install -r requirements.txt _n
