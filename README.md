@@ -11,10 +11,10 @@ Activate virtual environment </br>
 source ./venv/bin/activate </br>
 Install all the required packages </br>
 pip3 install -r requirements.txt </br>
-Installation (Windows) </br>
-Clone the repo and then run the following commands </br>
 
-# Installation (Windows)
+# Installation (Windows) </br>
+
+Clone the repo and then run the following commands </br>
 
 Create a virtual environment </br>
 python -m venv ./venv </br>
@@ -28,4 +28,6 @@ python3 manage.py runserver </br>
 Windows </br>
 python manage.py runserver </br>
 Contributing </br>
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+# Pull requests are welcome. 
+# For major changes, please open an issue first to discuss what you would like to change.
