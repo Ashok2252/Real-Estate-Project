@@ -1,4 +1,4 @@
-###Real Estate Project
+### Real Estate Project
 
 BTRE is the real estate webapp where where listings with detailed information for each are shown.
 
