@@ -2,7 +2,7 @@
 
 BTRE is the real estate webapp where where listings with detailed information for each are shown.
 
-Installation (Mac and Linux)
+# Installation (Mac and Linux)
 Clone the repo and then run the following commands
 
 Create a virtual environment
@@ -13,6 +13,8 @@ Install all the required packages
 pip3 install -r requirements.txt
 Installation (Windows)
 Clone the repo and then run the following commands
+
+# Installation (Windows)
 
 Create a virtual environment
 python -m venv ./venv
