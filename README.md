@@ -5,27 +5,27 @@ BTRE is the real estate webapp where where listings with detailed information fo
 # Installation (Mac and Linux)
 Clone the repo and then run the following commands
 
-Create a virtual environment _n
-python3 -m venv ./venv _n
-Activate virtual environment _n
-source ./venv/bin/activate _n
-Install all the required packages _n
-pip3 install -r requirements.txt _n
-Installation (Windows) _n
-Clone the repo and then run the following commands _n
+Create a virtual environment </br>
+python3 -m venv ./venv </br>
+Activate virtual environment </br>
+source ./venv/bin/activate </br>
+Install all the required packages </b</br>r>
+pip3 install -r requirements.txt </br>
+Installation (Windows) </br>
+Clone the repo and then run the following commands </br>
 
 # Installation (Windows)
 
-Create a virtual environment _n
-python -m venv ./venv _n
-Activate virtual environment _n </br>
-venv/Script/activate _n
-Install all the required packages _n
-pip install -r requirements.txt _n
-Usage _n
-Mac and Linux _n
-python3 manage.py runserver _n
-Windows _n
-python manage.py runserver _n
-Contributing _n
+Create a virtual environment </br>
+python -m venv ./venv </br>
+Activate virtual environment  </br>
+venv/Script/activate </br>
+Install all the required packages </br>
+pip install -r requirements.txt </br>
+Usage </br>
+Mac and Linux </br>
+python3 manage.py runserver </br>
+Windows </br>
+python manage.py runserver </br>
+Contributing </br>
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
