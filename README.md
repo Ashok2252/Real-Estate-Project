@@ -9,7 +9,7 @@ Create a virtual environment </br>
 python3 -m venv ./venv </br>
 Activate virtual environment </br>
 source ./venv/bin/activate </br>
-Install all the required packages </b</br>r>
+Install all the required packages </br>
 pip3 install -r requirements.txt </br>
 Installation (Windows) </br>
 Clone the repo and then run the following commands </br>
