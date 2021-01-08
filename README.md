@@ -1,6 +1,6 @@
 # Real Estate Project
 
-BTRE is the real estate webapp where where listings with detailed information for each are shown.
+Real Estate Project named BTRE Real Estate is developed using using Python Django - Web Framework with HTML & CSS as Frontend.
 
 # Installation (Mac and Linux)
 Clone the repo and then run the following commands
